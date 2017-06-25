@@ -1,4 +1,4 @@
-# eslint-plugin-simian-eslint-config
+# eslint-config-simian
 
 SimiaCode&#39;s minimal eslint config.
 
@@ -10,10 +10,10 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-simian-eslint-config`:
+Next, install `eslint-config-simian`:
 
 ```
-$ npm install eslint-plugin-simian-eslint-config --save-dev
+$ npm install eslint-config-simian --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-simian-eslint-config` globally.
@@ -24,13 +24,6 @@ Add `simian-eslint-config` to the plugins section of your `.eslintrc` configurat
 
 ```json
 {
-    "plugins": [
-        "simian-eslint-config"
-    ]
+    "extends": "simian"
 }
 ```
-
-
-
-
-

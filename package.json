@@ -1,11 +1,15 @@
 {
-  "name": "eslint-plugin-simian-eslint-config",
-  "version": "0.0.1",
+  "name": "eslint-config-simian",
+  "version": "0.0.2",
   "description": "SimiaCode's minimal eslint config.",
   "keywords": [],
   "author": "SimiaCode",
   "main": "lib/index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat1/eslint-config-simian.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "~3.9.1"
@@ -13,5 +17,9 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat1/eslint-config-simian/issues"
+  },
+  "homepage": "https://github.com/akshat1/eslint-config-simian#readme"
 }

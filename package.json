@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-simian-eslint-config",
+  "version": "0.0.1",
+  "description": "SimiaCode's minimal eslint config.",
+  "keywords": [],
+  "author": "SimiaCode",
+  "main": "lib/index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "~3.9.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}

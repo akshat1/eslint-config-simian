@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-simian",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SimiaCode's minimal eslint config.",
   "keywords": [],
   "author": "SimiaCode",
